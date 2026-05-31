@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsave",
+        "uuid": 18870654,
+        "checksum": "s44nt5u"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
